@@ -41,8 +41,8 @@ body {
 
 .note {
 
-    height: 30px;
-    width: 220px;
+    height: 40px;
+    width: 240px;
     background-color: white;
     color: black;
     margin-left: 0px;
@@ -61,12 +61,12 @@ body {
 }
 
 .main-box {
-    height: 110px;
-    width: 230px;
+    height: 150px;
+    width: 280px;
     top: auto;
     bottom: auto;
     background-color: rgb(84, 79, 79);
-    margin-left: 400px;
+    margin-left: 550px;
     margin-top: 70px;
     padding-top: 10px;
     border: 1px solid black;
@@ -74,7 +74,7 @@ body {
 }
 
 .inp-box {
-    height: 33px;
+    height: 37px;
     border: 1px solid black;
     border-radius: 5px;
     font-family: sans-serif;
@@ -82,7 +82,7 @@ body {
 }
 
 .inp-botton {
-    height: 35px;
+    height: 40px;
 }
 
 .box1 {
